@@ -45,6 +45,7 @@ The objective of this project is to transform MayurStationery sales data into an
 * `MayurStationery_Sales_Dataset.csv` – Dataset used for analysis
 * `Tableau Project.twbx` – Tableau workbook
 * `Dashboard_Screenshot.png` – Final dashboard screenshot
+* `Screen recording of interactive filters` - Screen Recording Video 
 * `README.md` – Project documentation
 
 📸 Dashboard Preview
